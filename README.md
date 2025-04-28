@@ -34,6 +34,8 @@ Jupyter Notebook: The entire project is built using Jupyter Notebook, making it 
 Data Processing: Pandas, NumPy for handling input data and model training.
 
 Visualization: Matplotlib and Seaborn for data visualization (optional but recommended for better insights).
+## Dataset:
+<a href="https://github.com/DiyaVachhani/Loan-Eligibility-Analysis/blob/main/train.csv">Dataset</a>
 ## Columns Explanation:
 Loan_ID: Unique identifier for each loan (might not be useful for predictions).
 
